@@ -8,13 +8,18 @@ The one, the only or at least i hope so 😬
 
 I do alot of things, too many sometimes.
 
+- My github stats:
+
+![Mike's github stats](https://github-readme-stats.vercel.app/api?username=peevees&theme=radical&count_private=true)
+
+
 ### Contact
 
 | | |
 |:----:|:---:|
 | :link: Linkedin | [MichaelNH](https://www.linkedin.com/in/mrnyberghjerto/)|
 | :octocat: Github | [peevees](https://github.com/peevees/)|
-<!--|:e-mail: Email | [](mailto:michaelrclay@gmail.com)|-->
+<!--|:e-mail: Email | [](mailto:a@a.com)|-->
 
 
 <!--
